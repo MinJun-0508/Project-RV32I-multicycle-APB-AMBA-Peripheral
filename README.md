@@ -1,3 +1,8 @@
+## 📄 Documentation
+- [📘 Final Presentation PDF](doc/RV32i_MultiCycle_AMBA_APB_UART.pdf)
+
+---
+
 # RV32I Multicycle CPU 및 AMBA APB UART 설계
 
 RV32I multicycle CPU 를 설계하고, UART Peripheral을 APB BUS를 통해 연동하여 PC와 통신을 구현한 프로젝트 입니다.
